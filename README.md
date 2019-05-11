@@ -1,7 +1,9 @@
 # teslaScrapper
 Usage:
 
-1. All in one command for installing and starting backend and frontend servers: "sh launch.sh"
+1. All in one command for installing and starting backend server: "sh launchBackend.sh";
+2. Open new terminal;
+3. All in one command for installing and starting frontend server: "sh launchFrontend.sh";
 
 More detailed:
 
