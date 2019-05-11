@@ -1,0 +1,78 @@
+.card {
+  width: 24vw;
+  min-width: 220px;
+  max-width: 300px;
+  height: 20vw;
+  min-height: 350px;
+}
+
+.cardHeader {
+  max-height: 15%;
+  background-color: #eae7dc;
+  color: white;
+}
+
+.media {
+  max-height: 50%;
+  width: auto;
+  overflow: hidden;
+}
+
+.CardActionArea {
+}
+
+.CardContent {
+  margin-bottom: auto;
+}
+
+.CardButton {
+  margin-top: auto;
+}
+
+.appBar {
+  position: relative;
+}
+
+.toolBarTitle {
+  flex: 1;
+}
+
+.heroContent {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  width: auto;
+  max-width: 1000px;
+}
+
+.child {
+  padding: 48px;
+}
+
+.app {
+  background-color: #e3e2df;
+}
+
+.footer {
+  padding: 48px;
+
+  margin-top: 10%;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.detailsContent {
+  padding: 5vw;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.desciption {
+  width: 60%;
+  min-width: 400px;
+  margin-bottom: 48px;
+}
