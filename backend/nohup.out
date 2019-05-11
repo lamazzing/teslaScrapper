@@ -1,0 +1,11 @@
+
+> to-do@1.0.0 start /Users/lucamazzi/TestGrowthHack/backend
+> node server/server.js
+
+(node:1986) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+Server is up on port 3001
+nohup: server/server.js: Permission denied
+(node:3468) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+Server is up on port 3001
+(node:4113) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+Server is up on port 3001
